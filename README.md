@@ -9,3 +9,5 @@ Thanks Dave and Adrian from Pyimagesearch! (https://www.pyimagesearch.com/)
 I could not have done this without this blogpost: https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/ again thanks!
 
 If you record the two sides of a basketball game, this repository will merge it to one video, using frames where the play happens.
+
+If you would like 1080p, change output format, includeing resizeing-format.
